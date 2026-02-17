@@ -6,8 +6,8 @@ from __future__ import annotations
 
 # Hook up the classes to this main file 
 from chatclient import Client
-from mode import Mode 
-from plain import Plain 
+# from mode import Mode 
+# from plain import Plain 
 from encrypted import Encrypted 
 from compressed import Compressed
 
